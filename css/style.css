@@ -1,0 +1,57 @@
+header {
+    background-color: lightgrey;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: lightgrey;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+body {
+    background-color: beige;
+}
+
+.marco_01 {
+    margin-bottom: 20px;
+}
+
+.marco_02 {
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+
+.marco_03 {
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+
+.marco_04 {
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+
+.praca_marco_zero {
+    margin-left: 300px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+nav {
+    align-items: center;
+}
+
+button {
+    border-radius: 3px;
+    border: 1px solid black;
+    
+}
